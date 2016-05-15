@@ -1,0 +1,25 @@
+
+      Bienvenido aventurero...
+
+      Te encuentras frente a los muros de la mazmorra de Astaroth,
+      donde terribles monstruos acechan a todos los intrepidos
+      que osen anhelar los tesoros que encierran.
+
+      Una vez dentro, la unica manera de salir sera aniquilando
+      todo el mal encerrado alli mismo. Se rumorea que la
+      mazmorra esconde criaturas del mismo averno, pero nadie
+      ha vuelto para confirmarlo.
+    
+                               .___.
+           /)               ,-^     ^-.
+          //               /           \
+ .-------| |--------------/  __     __  \-------------------.__
+ |WMWMWMW| |>>>>>>>>>>>>> | />>\   />>\ |>>>>>>>>>>>>>>>>>>>>>>:>
+ `-------| |--------------| \__/   \__/ |-------------------'^^
+          \\               \    /|\    /
+           \)               \   \_/   /
+                             |       |
+                             |+H+H+H+|
+                             \       /
+                              ^-----^
+  
