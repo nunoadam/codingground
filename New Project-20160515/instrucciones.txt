@@ -1,0 +1,21 @@
+
+  Este es un clasico juego de RPG. Tu objetivo es mover al Jugador (J)
+  por el laberinto y aniquilar a todo enemigo sin perder todos tus 
+  puntos de vida.
+
+  El juego se hace por turnos. Durante tu turno tienes un numero de 
+  acciones para realizar. Cuando se acaben tus acciones, sera el turno
+  de los monstruos. Reza para tener puntos de vida suficientes.
+
+  Durante tu turno puedes desplazarte, atacar o lanzar hechizos. Pero ten
+  cuidado, los hechizos gastan mana y cuesta regenerarlo.
+
+  Controles:
+   W,A,S,D: Movimiento      | J: Ataque de espada
+   M: Recupera mana (1pt)   | P: Abandona la partida
+ 
+  Hechizos:
+   K: Chain bolt (Divide la energia de los enemigos mas cercanos. No mata. 
+                  Gasta todo el mana disponible)
+   L: Death scroll (Asesina al enemigo que se escribe en el pergamino.
+                    Gasta 5pt de mana.)
